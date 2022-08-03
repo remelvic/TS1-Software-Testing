@@ -1,0 +1,38 @@
+{
+    "Mom": {
+        "Name": "Olivia",
+        "Age": 31
+    },
+    "Dad": {
+        "Name": "Stan",
+        "Age": 39
+    },
+    "Children": [{
+        "Name": "Michal",
+        "Age": 14
+    }],
+    "Babies": [{
+        "Name": "Ben",
+        "Age": 2
+    }],
+    "Grandpa": {
+        "Name": "John",
+        "Age": 67
+    },
+    "Grandma": {
+        "Name": "Bella",
+        "Age": 73
+    },
+    "Cats":[{
+        "Name": "Snow",
+        "Age": 5
+    }],
+    "Dogs":[{
+        "Name": "Jack",
+        "Age": 6
+    }],
+    "Parrot":{
+        "Name": "Nick",
+        "Age": 4
+    }
+}
